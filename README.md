@@ -46,9 +46,9 @@ I'm a software development student at unicomfenalco. Java, javascrip, html and c
 <h3 align="left">Connect with me:</h3>
 <div align="left">
 	
-[![image](https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
-[![image](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
-[![image](https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+[![image](https://img.shields.io/badge/LinkedIn-C78EFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+[![image](https://img.shields.io/badge/Instagram-C78EFF?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
+[![image](https://img.shields.io/badge/Gmail-C78EFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
   
 </div>
 
