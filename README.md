@@ -12,7 +12,7 @@
 <!-- otros colores de lila: B695C0, C8A2C8 -->
 <!--  -->
 <!--  -->
-<!--  -->
+
 
 <!-- este es del muñequito <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
   --> 
@@ -28,8 +28,6 @@ I'm a software development student at unicomfenalco. Java, javascrip, html and c
   - Docker
   - Redis
   - React js
-  <!-- - Nodejs
-  - Javascript-->
 - 👯 I’m looking forward to collaborate on open source projects.😉
 - Outside tech, 📖 I love to read novels, 🖌️ digital drawing, 🎵 listen to music, and 🌴 traveling. <br> </br>
 
@@ -41,11 +39,13 @@ I'm a software development student at unicomfenalco. Java, javascrip, html and c
   </a>
 </p>
 
-
-<p align= "center">
+<!-- <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=beyzaerf&theme=react&show_icons=true&include_all_commits=true" />
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyzaerf&theme=react&layout=compact" />
-</p>
+</p> -->
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rosalba-Perez&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="left">Connect with me:</h3>
