@@ -28,4 +28,12 @@ I'm a software development student at unicomfenalco. Java, html and css, are the
   - Javascript
   <!-- - React js -->
 - 👯 I’m looking forward to collaborate on open source projects.😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ digital drawing, 🎵 listen to music, and 🌴 traveling.
+- Outside tech, 📖 I love to read novels, 🖌️ digital drawing, 🎵 listen to music, and 🌴 traveling. </br>
+
+
+Languajes and tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
