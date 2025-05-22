@@ -41,6 +41,13 @@ I'm a software development student at unicomfenalco. Java, javascrip, html and c
   </a>
 </p>
 
+
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=beyzaerf&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyzaerf&theme=react&layout=compact" />
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <div align="left">
 	
@@ -49,5 +56,6 @@ I'm a software development student at unicomfenalco. Java, javascrip, html and c
 [![image](https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
   
 </div>
+
 
 
