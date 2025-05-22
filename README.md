@@ -36,6 +36,6 @@ I'm a software development student at unicomfenalco. Java, html and css, are the
 ## Languajes and tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,vscode,spring,java,mongodb,postman,mysql" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,java,vscode,spring,mongodb,postman,mysql" />
   </a>
 </p>
