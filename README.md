@@ -22,13 +22,14 @@
 ## 🐭***About me:***
 
 
-I'm a software development student at unicomfenalco. Java, html and css, are the languages I'm good at. I love to learn and build something new, innovative and creative.
+I'm a software development student at unicomfenalco. Java, javascrip, html and css, are the languages I'm good at. I love to learn and build something new, innovative and creative.
 * **I am interested in web programming.**
 - 🌱 I’m currently learning ...
-  - Javascript
-  - Nodejs
+  - Docker
   - Redis
-  <!-- - React js -->
+  - React js
+  <!-- - Nodejs
+  - Javascript-->
 - 👯 I’m looking forward to collaborate on open source projects.😉
 - Outside tech, 📖 I love to read novels, 🖌️ digital drawing, 🎵 listen to music, and 🌴 traveling. <br> </br>
 
@@ -36,6 +37,6 @@ I'm a software development student at unicomfenalco. Java, html and css, are the
 ## Languajes and tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,java,vscode,spring,mongodb,postman,mysql" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,java,vscode,spring,mongodb,postman,mysql,nodejs" />
   </a>
 </p>
