@@ -18,7 +18,7 @@
   --> 
 <img align="right" width="200px" alt="Mimibubu" src="https://media.tenor.com/tLQNV1ygf6gAAAAi/mimibubu.gif" />
 
-<!-- ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;🐭***About me***  -->
+<!-- ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***  -->
 ## 🐭***About me:***
 
 
@@ -43,13 +43,13 @@ I'm a software development student at unicomfenalco. Java, javascrip, html and c
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rosalba-Perez&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Follow me:</h3>
 <div align="left">
 	
 [![image](https://img.shields.io/badge/LinkedIn-C78EFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
-[![image](https://img.shields.io/badge/Instagram-C78EFF?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
-[![image](https://img.shields.io/badge/Gmail-C78EFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
-  
+[![image](https://img.shields.io/badge/Instagram-C78EFF?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ross_bob09/?igsh=MWgzYjRzMXN3NzMzdA%3D%3D#)
+<!-- [![image](https://img.shields.io/badge/Gmail-C78EFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)-->
+
 </div>
 
 
