@@ -13,12 +13,12 @@
 <!--  -->
 <!--  -->
 <!--  -->
-<!--  -->
+<!-- <img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/tLQNV1ygf6gAAAAi/mimibubu.gif"/> -->
 
 <!-- este es del muñequito <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
   --> 
-  <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
-<img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/tLQNV1ygf6gAAAAi/mimibubu.gif"/>
+<img align="right" width="100px" alt="Mimibubu" src="https://media.tenor.com/tLQNV1ygf6gAAAAi/mimibubu.gif" />
+
 
 <!-- ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;🐭***About me***  -->
 ## 🐭***About me:***
