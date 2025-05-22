@@ -13,7 +13,7 @@
 <!--  -->
 <!--  -->
 <!--  -->
-<!--  -->
+
 <!-- este es del muñequito <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
   --> 
 <img align="right" width="200px" alt="Mimibubu" src="https://media.tenor.com/tLQNV1ygf6gAAAAi/mimibubu.gif" />
@@ -21,3 +21,11 @@
 <!-- ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;🐭***About me***  -->
 ## 🐭***About me:***
 
+
+I'm a software development student at unicomfenalco. Java, html and css, are the languages I'm good at. I love to learn and build something new, innovative and creative.
+* **I am interested in web programming.**
+- 🌱 I’m currently learning ...
+  - Javascript
+  <!-- - React js -->
+- 👯 I’m looking forward to collaborate on open source projects.😉<br>
+- Outside tech, 📖 I love to read novels, 🖌️ digital drawing, 🎵 listen to music, and 🌴 traveling.
