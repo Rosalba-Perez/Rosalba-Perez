@@ -5,11 +5,11 @@
 
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Development+Student;Web+Developer+In+Process;Always%20learning%20new%20things&center=true&width=380&height=45&color=C78EFF">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Development+Student;Web+Developer+In+Process;Always%20learning%20new%20things&center=true&width=380&height=45&color=B695C0">
 	</a>
 </p>
 
-<!-- otros colores de lila: B695C0, C8A2C8 -->
+<!-- otros colores de lila:C78EFF, B695C0, C8A2C8 -->
 <!--  -->
 <!--  -->
 
@@ -39,12 +39,7 @@ I'm a software development student at unicomfenalco. Java, javascrip, html and c
   </a>
 </p>
 
-<!-- <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=beyzaerf&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beyzaerf&theme=react&layout=compact" />
-</p> -->
-
-
+## General stats.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rosalba-Perez&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
