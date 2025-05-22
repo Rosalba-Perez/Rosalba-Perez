@@ -27,8 +27,8 @@ I'm a software development student at unicomfenalco. Java, html and css, are the
 - 🌱 I’m currently learning ...
   - Javascript
   <!-- - React js -->
-- 👯 I’m looking forward to collaborate on open source projects.😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ digital drawing, 🎵 listen to music, and 🌴 traveling. </br>
+- 👯 I’m looking forward to collaborate on open source projects.😉
+- Outside tech, 📖 I love to read novels, 🖌️ digital drawing, 🎵 listen to music, and 🌴 traveling. <br> </br>
 
 
 ## Languajes and tools
