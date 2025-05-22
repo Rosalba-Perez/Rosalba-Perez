@@ -9,4 +9,5 @@
 	</a>
 </p>
 
+<!-- otros colores de lila: B695C0, C8A2C8 -->
 
