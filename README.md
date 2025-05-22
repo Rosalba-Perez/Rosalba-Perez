@@ -26,6 +26,8 @@ I'm a software development student at unicomfenalco. Java, html and css, are the
 * **I am interested in web programming.**
 - 🌱 I’m currently learning ...
   - Javascript
+  - Nodejs
+  - Redis
   <!-- - React js -->
 - 👯 I’m looking forward to collaborate on open source projects.😉
 - Outside tech, 📖 I love to read novels, 🖌️ digital drawing, 🎵 listen to music, and 🌴 traveling. <br> </br>
@@ -34,6 +36,6 @@ I'm a software development student at unicomfenalco. Java, html and css, are the
 ## Languajes and tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,vscode,spring,java,mongodb,postman,mysql" />
   </a>
 </p>
