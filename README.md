@@ -28,7 +28,7 @@ I'm a software development student at unicomfenalco. Java, javascrip, html and c
   - Docker
   - Redis
   - React js
-- 👯 I’m looking forward to collaborate on open source projects.😉
+<!-- - 👯 I’m looking forward to collaborate on open source projects.😉 -->
 - Outside tech, 📖 I love to read novels, 🖌️ digital drawing, 🎵 listen to music, and 🌴 traveling. <br> </br>
 
 
