@@ -10,3 +10,10 @@
 </p>
 
 <!-- otros colores de lila: B695C0, C8A2C8 -->
+<!--  -->
+
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+
+<!-- ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;🐭***About me***  -->
+## 🐭***About me:***
+
