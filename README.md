@@ -5,7 +5,7 @@
 
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Development+Student;Web+Developer+In+Process;Always%20learning%20new%20things&center=true&width=380&height=45color=00FF00">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Development+Student;Web+Developer+In+Process;Always%20learning%20new%20things&center=true&width=380&height=45&color=00FF00">
 	</a>
 </p>
 
