@@ -46,7 +46,7 @@ I'm a software development student at unicomfenalco. Java, javascrip, html and c
 <h3 align="left">Follow me:</h3>
 <div align="left">
 	
-[![image](https://img.shields.io/badge/LinkedIn-C78EFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+[![image](https://img.shields.io/badge/LinkedIn-C78EFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosalba-p%C3%A9rez-p%C3%A9rez-a2a613374?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![image](https://img.shields.io/badge/Instagram-C78EFF?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ross_bob09/?igsh=MWgzYjRzMXN3NzMzdA%3D%3D#)
 <!-- [![image](https://img.shields.io/badge/Gmail-C78EFF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)-->
 
