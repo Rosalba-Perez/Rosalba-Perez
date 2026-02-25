@@ -3,11 +3,11 @@
 </h1>
 
 
-<p align="center">
+<!-- <p align="center">
 	<a href="https://github.com/Bouaskaoun">
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Development+Student;Web+Developer+In+Process;Always%20learning%20new%20things&center=true&width=380&height=45&color=C78EFF">
 	</a>
-</p>
+</p> -->
 
 <!-- otros colores de lila:C78EFF, B695C0, C8A2C8 -->
 <!--  -->
