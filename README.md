@@ -39,8 +39,8 @@ I'm a software development student at unicomfenalco. Java, javascrip, html and c
   </a>
 </p>
 
-## General stats.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rosalba-Perez&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!--## General stats.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rosalba-Perez&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 <h3 align="left">Follow me:</h3>
