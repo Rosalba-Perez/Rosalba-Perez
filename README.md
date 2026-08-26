@@ -26,7 +26,7 @@ I'm a software development student at unicomfenalco. Java, javascrip, html and c
 * **I am interested in web programming.**
 - 🌱 I’m currently learning ...
   - React
-  - Django
+  - Python
   <!-- - C# -->
   <!-- - .Net-->
 <!-- - 👯 I’m looking forward to collaborate on open source projects.😉 -->
