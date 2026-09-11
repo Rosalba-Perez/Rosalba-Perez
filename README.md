@@ -25,6 +25,7 @@
 I'm a software development student at unicomfenalco. Java, javascrip, html and css, are the languages I'm good at. I love to learn and build something new, innovative and creative.
 * **I am interested in web programming.**
 - 🌱 I’m currently learning ...
+  - Flutter
   - React
   - Python
   <!-- - C# -->
