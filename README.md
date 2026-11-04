@@ -39,11 +39,10 @@ I'm a Software Development student at Unicomfenalco. I'm proficient in Java, Jav
   </a>
 </p>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rosalba-Perez&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosalba-Perez&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Rosalba-Perez&theme=tokyonight&no-frame=true&row=1" />
 </p>
 
 <!--## General stats.
