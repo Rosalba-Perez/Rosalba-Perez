@@ -41,9 +41,10 @@ I'm a Software Development student at Unicomfenalco. I'm proficient in Java, Jav
 
 ## GitHub Stats
 
-<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosalba-Perez&layout=donut&theme=tokyonight" />
+<!--<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rosalba-Perez&theme=tokyonight" />
-</p>
+</p>-->
 
 <!--## General stats.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rosalba-Perez&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
