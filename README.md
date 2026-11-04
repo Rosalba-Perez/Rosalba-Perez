@@ -45,6 +45,14 @@ I'm a Software Development student at Unicomfenalco. I'm proficient in Java, Jav
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rosalba-Perez&theme=tokyonight" />
 </p>
 
+## 💜 Main Stack
+
+![Java](https://img.shields.io/badge/Java-C78EFF?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-C78EFF?style=for-the-badge&logo=spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-C78EFF?style=for-the-badge&logo=javascript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-C78EFF?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-C78EFF?style=for-the-badge&logo=mysql&logoColor=white)
+
 <!--## General stats.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rosalba-Perez&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)-->
 
