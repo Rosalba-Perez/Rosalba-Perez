@@ -35,7 +35,7 @@ I'm a Software Development student at Unicomfenalco. I'm proficient in Java, Jav
 ## Languages and tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,java,python,react,vscode,spring,mongodb,postman,mysql,nodejs" />
+    <img src="https://skillicons.dev/icons?i=js,flutter,html,css,java,python,react,vscode,spring,mongodb,postman,mysql,nodejs" />
   </a>
 </p>
 
