@@ -41,7 +41,6 @@ I'm a Software Development student at Unicomfenalco. I'm proficient in Java, Jav
 
 ## GitHub Stats
 
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rosalba-Perez&theme=tokyonight" />
 </p>
