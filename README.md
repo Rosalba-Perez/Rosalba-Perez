@@ -22,23 +22,28 @@
 ## 🐭***About me:***
 
 
-I'm a software development student at unicomfenalco. Java, javascrip, html and css, are the languages I'm good at. I love to learn and build something new, innovative and creative.
+I'm a Software Development student at Unicomfenalco. I'm proficient in Java, JavaScript, Python, React, and I'm passionate about building innovative and creative solutions.
 * **I am interested in web programming.**
 - 🌱 I’m currently learning ...
   - Flutter
-  - React
-  - Python
-  <!-- - C# -->
-  <!-- - .Net-->
+  - C#
+  - .Net
 <!-- - 👯 I’m looking forward to collaborate on open source projects.😉 -->
 - Outside tech, 📖 I love to read novels, 🖌️ digital drawing, 🎵 listen to music, and 🌴 traveling. <br> </br>
 
 
-## Languajes and tools
+## Languages and tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,java,vscode,spring,mongodb,postman,mysql,nodejs" />
   </a>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rosalba-Perez&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosalba-Perez&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <!--## General stats.
